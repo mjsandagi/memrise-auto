@@ -1,8 +1,8 @@
 # Automatic Memrise Bot (Pynput version)
 
-A program that automatically does a Memrise learning course for you. It will get you the target you need swiftly and efficiently.
+A program that automatically does a Memrise learning session for you. It will get you the target you need swiftly and efficiently.
 
-This program does not work all the time - it is prefered that you use the Selenium version of this program, which you can find at **[mjsandagi/the-salon-members](https://github.com/mjsandagi/the-salon-members)**
+This program does not work all the time - it is preferred that you use the Selenium version of this program, which you can find at **[mjsandagi/the-salon-members](https://github.com/mjsandagi/the-salon-members)**
 
 ---
 

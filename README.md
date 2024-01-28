@@ -2,6 +2,8 @@
 
 A program that automatically does a Memrise learning course for you. It will get you the target you need swiftly and efficiently.
 
+This program does not work all the time - it is prefered that you use the Selenium version of this program, which you can find at **[mjsandagi/the-salon-members](https://github.com/mjsandagi/the-salon-members)**
+
 ---
 
 **Important message** - use this ethically. Memrise is there to teach you a new language - whether it be for a subject or a hobby, at the end of the day, the only person you're cheating is _yourself_.
